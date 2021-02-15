@@ -1,0 +1,2 @@
+# boykot
+Aplikasi Massive POS
